@@ -126,5 +126,8 @@ Key highlights:
 This solution demonstrates strong potential for **smart traffic management** and urban safety applications.
 
 
+## Contributing
+
+
 Contributions are welcome!  
 Feel free to fork this repository and submit a pull request with improvements or new features.
