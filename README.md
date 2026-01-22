@@ -113,11 +113,6 @@ cd ./src
 📁 Output videos are saved in: `result/video`  
 📄 Benchmark logs are saved in: `result/benchmark`
 
-## Demo
-
-![YouTube Logo](https://img.icons8.com/color/12/000000/youtube-play.png) [Wrong-lane detection – Ben Tre](https://youtu.be/1P9afBQDIDM)  
-![YouTube Logo](https://img.icons8.com/color/12/000000/youtube-play.png)[Wrong-lane detection – Pham Van Dong](https://youtu.be/WX-ibKRnSQ0)
-
 ## Summary
 
 This project delivers an effective and lightweight traffic monitoring system capable of detecting wrong-lane vehicle movement. It is specifically designed for **real-time deployment** on **embedded devices** like Raspberry Pi.
@@ -131,8 +126,6 @@ Key highlights:
 
 This solution demonstrates strong potential for **smart traffic management** and urban safety applications.
 
-💵 *If you need to be supported, please contact: trandanganninh1@gmail.com (paid request)*
-## Contributing
 
 Contributions are welcome!  
 Feel free to fork this repository and submit a pull request with improvements or new features.
