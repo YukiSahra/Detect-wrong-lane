@@ -10,8 +10,7 @@ This project leverages **computer vision** and **deep learning** techniques to d
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Model Optimization](#model-optimization)  
-- [Results](#results)  
-- [Demo](#demo) 
+- [Results](#results)
 - [Summary](#summary)
 - [Contributing](#contributing)  
 
