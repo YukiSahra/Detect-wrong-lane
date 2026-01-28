@@ -5,19 +5,6 @@ from time import time
 FPS_WARMUP_FRAMES = 5
 
 
-def setup_object_counter(model_names, number_lane, lanes):
-    counter = object_counter.ObjectCounter()
-    counter.set_args(
-        view_img=True,
-        reg_pts=lanes,
-        classes_names=dict(model_names),
-        draw_tracks=True,
-        line_thickness=2,
-        region_thickness=1,
-        track_thickness=1,
-        region_lane=number_lane
-    )
-    return counter
 
 
 def process_video_frames(cap, model, video_writer, object_count, fps_warmup_frames, img_size):
