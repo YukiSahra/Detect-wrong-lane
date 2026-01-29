@@ -104,10 +104,4 @@ def process_video_frames(cap, model, video_writer, object_count, fps_warmup_fram
     # Tính thời gian inference trung bình
     average_inference_time = inference_time_ms / frame_count
     
-    # In ra kết quả thống kê
-    print(f"Average inference time: {average_inference_time:.2f} ms")
-    print(f"Average FPS: {average_fps:.2f}")
-    print(f"Min FPS: {min_fps:.2f}")
-    print(f"Max FPS: {max_fps:.2f}")
-    
-    return average_fps, min_fps, max_fps, average_inference_time
+
